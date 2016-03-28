@@ -20849,13 +20849,13 @@ When you evaluate your curves and scalars for the OG&E area, can you also make s
 
 #sig#Thanks.
 #sig#
-#sig#- Nick
+#sig##name#- Nick
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox48_body
 Dear Class,
 The POV is having a guest speaker who is the equivalent of a  priest in Islam.
 I had to leave last week before I could tell you that due to  the blood drive we would have to meet somewhere else for this coming Sunday. So,  we will meet in the GYM for Sunday School.
-#sig#Charles E. Ruehl
+#sig##name#Charles E. Ruehl
 #sig#St. Paul's United Methodist  Church
 #sig#Minister of Finance and Administration 
 #sig#Houston,  TX
@@ -21096,7 +21096,7 @@ We are home and wondering why it is still hot here...
 
 #sig#Thanks again
 #sig#
-#sig#Chuck and Susan
+#sig##name#Chuck and Susan
 
 __________________________________________________
 Do You Yahoo!?
@@ -21124,7 +21124,7 @@ So, until Sunday -
  
 GO  CATS    
  
-#sig#Joyce Nesmith
+#sig##name#Joyce Nesmith
 #sig#281 444-5361j.nesmith@prodigy.net
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox53_body
@@ -21132,11 +21132,11 @@ Stephanie,
 
 Please give Mike Carson execute access to Physical Spread products (Product id 2083) on EOL ASAP.  Thanks
 
-#sig#Steve Pan
+#sig##name#Steve Pan
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox54_body
 
-#sig#Reagan C. Rorschach
+#sig##name#Reagan C. Rorschach
 #sig#Enron North America
 #sig#1400 Smith Street
 #sig#Houston, Texas 77002
@@ -21294,7 +21294,7 @@ StreetSmart Pro!
 
 Sincerely,
 
-Elizabeth Stelluto
+#sig##name#Elizabeth Stelluto
 Senior Vice President
 Charles Schwab & Co., Inc.
 
@@ -21385,13 +21385,13 @@ We spoke briefly on the phone yesterday about creating a ticker story for your n
 If you would like to go ahead with this, please send a brief description of the new product and the date it will be launching on EnronOnline.
 
 #sig#Thanks,
-#sig#Erica Bess Duncan
+#sig##name#Erica Bess Duncan
 #sig#x3-5159
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox62_body
 Calpine, Entergy, Dominion, and Williams
 
-#sig#Reagan C. Rorschach
+#sig##name#Reagan C. Rorschach
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox63_body
 #sig#All,
@@ -21404,7 +21404,7 @@ Any questions let me know.
 
 #sig#Regards,
 #sig#
-#sig#Karen 
+#sig##name#Karen 
 #sig#x54667
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox64_body
@@ -21646,8 +21646,8 @@ A copy of each will be scanned into Livelink.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox66_body
 Dear Friends,
 Just a quick note to let you know the Golf tournament has been  rescheduled to March 9, 2002 with a 1:00 PM  shotgun start. There were more  and more conflicts that kept arising for November 10. Please put this date on  your calendars and begin now to get your foursomes together. 
-#sig#Charles
-#sig#Charles E. Ruehl
+#sig##name#Charles
+#sig##name#Charles E. Ruehl
 #sig#St. Paul's United Methodist  Church
 #sig#Minister of Finance and Administration 
 #sig#Houston,  TX
@@ -21699,7 +21699,7 @@ wish to trade.
 #sig#The TradeSpark Team
 #sig#
 #sig#Contacts for assistance:
-#sig#TradeSpark Sales
+#sig##name#TradeSpark Sales
 #sig#Pam Anderson 713-426-6593
 #sig#Jeff Linn  713-655-5095
 #sig#Buck LaPoint 713-655-5005
@@ -21722,7 +21722,7 @@ For further important information, please see http://www.tradespark.com/full-dis
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox6_body
 <<BrokerQuote(SouthEast)>>
-#sig#Prebon Energy
+#sig##name#Prebon Energy
 
  - BrokerQuote(SouthEast).xls
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -21737,7 +21737,7 @@ Our Alumni Club had a fun night last night at  Jillian's for our annual "Sunflow
  
 We'll be in Manhattan for the Aggie game - watch for  us!
  
-#sig#Joyce
+#sig##name#Joyce
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox71_body
 Ok it is now officially Tuesday morning. Kiss my ass Feeley. 
@@ -21799,7 +21799,7 @@ Let me know if you have any questions.
 
 #sig#Kind regards, 
 #sig#
-#sig#Adrianne
+#sig##name#Adrianne
 #sig#x57302
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox77_body
@@ -21811,7 +21811,7 @@ set your damn lineups.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox78_body
 Here we go.  Please review.  I will try to get a room so that we can discuss this afternoon.
 
-#sig#Reagan C. Rorschach
+#sig##name#Reagan C. Rorschach
 #sig#Enron North America
 #sig#1400 Smith Street
 #sig#Houston, Texas 77002
@@ -21820,7 +21820,7 @@ Here we go.  Please review.  I will try to get a room so that we can discuss thi
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox79_body
 I have arranged for 3321 from 4 to 5pm today.  Can everyone make it?
 
-#sig#Reagan C. Rorschach
+#sig##name#Reagan C. Rorschach
 #sig#Enron North America
 #sig#1400 Smith Street
 #sig#Houston, Texas 77002
@@ -21828,7 +21828,7 @@ I have arranged for 3321 from 4 to 5pm today.  Can everyone make it?
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox7_body
 <<Feb>>
-#sig#Prebon Energy
+#sig##name#Prebon Energy
 
  - Feb.xls
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -21840,7 +21840,7 @@ Please mark your calendar for a mandatory staff meeting with Kevin Presto tomorr
 
 #sig#Thanks 
 #sig#
-#sig#T.Jae Black
+#sig##name#T.Jae Black
 #sig#East Power Trading
 #sig#Assistant to Kevin Presto
 #sig#off. 713-853-5800
@@ -21852,7 +21852,7 @@ Mike,
 
 The change in the curves only shows a .60 increase today.  The curves were down anywhere from .60 to 1.65 previous which was supposed to be up .25.  Cin was up @ .15 today.  That would mean that ENT should be up at least the amount it was down the previous day plus any increase marked today.  Can you look into this for me.  This is causing a $2MM hit in the books down here.  Thanks.
 
-#sig#-Joe
+#sig##name#-Joe
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox83_body
 All,
@@ -21872,13 +21872,13 @@ Please confirm by return participation of your respective groups.
 
 #sig#Regards,
 #sig#
-#sig#Karen Buckley
+#sig##name#Karen Buckley
 HR - ENA
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox84_body
 THE STAFF MEETING HAS BEEN CANCELED FOR TODAY...
 
-#sig#T.Jae Black
+#sig##name#T.Jae Black
 #sig#East Power Trading
 #sig#Assistant to Kevin Presto
 #sig#off. 713-853-5800
@@ -21911,7 +21911,7 @@ There will be no changes to the West and Texas Origination groups headed respect
 
 Please join us in congratulating Fred, Laura and Frank in their new roles.
 
-#sig#Louise & John
+#sig##name#Louise & John
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox87_body
 [IMAGE] =09
@@ -22240,7 +22240,7 @@ Kansas State finished 24th in a field of 53 entries.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox89_body
 Dear Friends,
 The church has finally arrived in the 21 Century. We now have  DSL! Please change my e-mail address to seareel@stpaulshouston.org . Thank  you.
-#sig#Charles E. Ruehl
+#sig##name#Charles E. Ruehl
 #sig#St. Paul's United Methodist  Church
 #sig#Minister of Finance and Administration 
 #sig#Houston,  TX
@@ -22906,7 +22906,7 @@ Notice: This information is intended only for the person or entity to which it i
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox96_body
 Those were great pics of Harris.... very handsome.
 
-#sig#Kenny
+#sig##name#Kenny
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox97_body
 Mike,
@@ -22943,7 +22943,7 @@ Let me know how everything is going!!
 Perge!
 Cody
 
-#sig#Cody Downard
+#sig##name#Cody Downard
 #sig#Vail/Beaver Creek Training & Development Dept.
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>carson-m_inbox99_body
@@ -22983,6 +22983,6 @@ Should you have any questions or issues, please contact me at x33465 or the Call
 
 #sig#Thank you,
 #sig#
-#sig#Stephanie Sever
+#sig##name#Stephanie Sever
 #sig#713-853-3465
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
