@@ -1,0 +1,27 @@
+Locale,Signature Format
+en-US,"{{ first_name }} {{ last_name }}{% if suffix is defined %}, {{ suffix }}{% endif %}
+{{ job_title }}
+{{ company_name }}
+{{ business_email }}
+
+{% if direct_phone is defined %}{{ direct_phone }} direct
+{% endif %}{% if mobile is defined %}{{ mobile }} cell
+{% endif %}{% if fax is defined %}{{ fax }} fax
+{% endif %}{% if main_phone is defined %}{{ main_phone }} support
+{% endif %}"
+en-US,"{{ first_name }} {{ last_name }}{% if suffix is defined %}, {{ suffix }}{% endif %}
+{{ job_title }}
+{{ company_name }}
+{{ street_address }}
+{{ city}}, {{ state_abbrev }} {{ postal_code }}"
+en-US,"{{ first_name }} {{ last_name }}{% if suffix is defined %}, {{ suffix }}{% endif %}
+{{ job_title }}
+
+{{ company_name }}
+
+{% if direct_phone is defined %}D/F: {{ direct_phone }}
+{% endif %}{% if mobile is defined %}C: {{ mobile }}
+{% endif %}E: {{ business_email }}
+
+Twitter | LinkedIn | Facebook | YouTube | G+ | Blog
+"

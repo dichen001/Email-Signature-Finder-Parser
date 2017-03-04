@@ -1,0 +1,3 @@
+Phone Format
++1.{{ tel_area_code }}.{{ tel_exchange_code}}.{{ tel_subscriber_number }}
+({{ tel_area_code }}) {{ tel_exchange_code}}-{{ tel_subscriber_number }}

@@ -1,0 +1,4 @@
+Locale,Email Format
+en-US,"{{ first_name | lower }}.{{ last_name | lower }}@{{ domain_name }}"
+en-US,"{{ first_name | truncate(1,end='') | lower }}{{ last_name | lower }}@{{ domain_name }}"
+

@@ -1,0 +1,7 @@
+Street Type,Frequency
+Street,0.1
+Road,0.1
+Commons,0.1
+Highway,0.1
+Court,0.01
+Lane,0.01

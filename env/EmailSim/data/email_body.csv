@@ -1,0 +1,21 @@
+Locale,Email Body
+en-US,"
+You are invited to a meeting
+
+{{ signature }}"
+en-US,"Hi Jeff,
+We are experiencing a site outage
+
+{{ signature }}"
+en-US,"We are leaving now
+
+{{ signature }}"
+en-US,"Hi Jeff,
+Please review document
+
+Thanks,
+{{ signature }}"
+en-US,"Hey Jeff perfect! I am working on it!
+
+Regards,
+{{ signature }}"

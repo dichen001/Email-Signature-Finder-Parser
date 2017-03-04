@@ -1,0 +1,3 @@
+Address Format,Frequency,Directional
+"{{ street_number }} {{ street_name }} {{ street_type }}",0.9,
+"{{ street_number }} {{ directional }} {{ street_name }} {{ street_type }}",0.1,1
